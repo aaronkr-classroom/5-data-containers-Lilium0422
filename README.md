@@ -14,7 +14,7 @@
 
 ## 4장 연습문제 (대답)
 
-- 4-1. **코드는 올바르게 동작하지 못한다. int maxlen을 std::student**
+- 4-1. **코드는 올바르게 동작하지 못한다. int maxlen을 student::size_type manlen으로 수정하면 해결된다.**
 
 ## 4장 연습문제 (필요한 제출 파일)
 
